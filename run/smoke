@@ -1,3 +1,3 @@
 mkdir -p ./sim/fp32_multi_smoke
 cd ./sim/fp32_multi_smoke
-../simv 
+../simv +smoke

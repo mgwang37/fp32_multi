@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p ./sim/fp32_adder_all
+cd ./sim/fp32_adder_all
+../simv 

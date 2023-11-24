@@ -5,7 +5,7 @@
 ** Module Name: FP32Multi
 **
 ** Description: 
-**      符合IEEE-754标准fp32 浮点乘法器(四拍流水)
+**      符合IEEE-754标准fp32浮点乘法器(四级流水)
 **
 ** Dependencies: NO
 **
